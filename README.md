@@ -60,12 +60,17 @@ cd BuildFromCode
 
 ## 📂 Structure
 
-bfc/
-projects/
-todo-app/
-push-notifications/
-pwa-installable-app/
-dark-mode-toggle/
+```
+bfc (Build From Code)
+│
+├── projects/
+│   ├── todo-app/
+│   ├── push-notifications/
+│   ├── pwa-installable-app/
+│   └── dark-mode-toggle/
+│
+└── README.md
+```
 
 ---
 
